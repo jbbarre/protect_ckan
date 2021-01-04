@@ -2,7 +2,7 @@
 
 ### Step 1: Preparation
 * First of all, the dataset to which you whish to add data must be created in the [Data Portal](https://data-protect-slr.univ-grenoble-alpes.fr/).
-* You need to know your login and api key from you data portal account. You may grab them in the user account page of the data portal.
+* You need to know your login and api key from you data portal account. You may grab them in the user account page of the data portal.API_key must generated beforehand in Profile Settings => Regenerate API Key.
 * The files must be be zipped into a 7-zip file. 
 * For a stable and efficient internet connection, the 7-zip file may be located on your computer (remote upload). Otherwise, the 7-zip file must be uploaded using ssh access into the data server before being embedded in the data portal. A user may upload files into `/data/ckan/storage/YourInstitution/`. If you need more info, please send a request to <data@protect-slr.eu>
 
